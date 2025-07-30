@@ -1,3 +1,20 @@
+
+
+/*=== Time to Integer Conversion Test ===
+Time: 1d 02h:30m:15s
+Total seconds: 95415
+
+t1 = 0d 01h:30m:45s
+t2 = 0d 02h:10m:30s
+t1 + t2 = 0d 03h:41m:15s
+t2 - t1 = 0d 00h:39m:45s
+t1 > t2: 0
+t1 < t2: 1
+t1 == t1: 1
+*/
+
+
+
 #include <iostream>
 #include "Time.h"
 
